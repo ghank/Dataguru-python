@@ -1,0 +1,203 @@
+Mon 21 Nov 2016 23:31:25 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:26 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=20&type=T
+Mon 21 Nov 2016 23:31:26 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:26 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=20&type=T
+Mon 21 Nov 2016 23:31:26 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:26 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=40&type=T
+Mon 21 Nov 2016 23:31:26 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:26 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=40&type=T
+Mon 21 Nov 2016 23:31:26 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:27 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=60&type=T
+Mon 21 Nov 2016 23:31:27 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:27 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=60&type=T
+Mon 21 Nov 2016 23:31:27 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:27 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=80&type=T
+Mon 21 Nov 2016 23:31:27 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:27 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=80&type=T
+Mon 21 Nov 2016 23:31:27 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:28 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=100&type=T
+Mon 21 Nov 2016 23:31:28 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:28 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=100&type=T
+Mon 21 Nov 2016 23:31:28 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:28 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=120&type=T
+Mon 21 Nov 2016 23:31:28 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:28 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=120&type=T
+Mon 21 Nov 2016 23:31:28 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:29 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=140&type=T
+Mon 21 Nov 2016 23:31:29 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:29 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=140&type=T
+Mon 21 Nov 2016 23:31:29 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:29 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=160&type=T
+Mon 21 Nov 2016 23:31:29 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:29 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=160&type=T
+Mon 21 Nov 2016 23:31:29 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:30 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=180&type=T
+Mon 21 Nov 2016 23:31:30 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:30 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=180&type=T
+Mon 21 Nov 2016 23:31:30 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:31 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=200&type=T
+Mon 21 Nov 2016 23:31:31 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:31 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=200&type=T
+Mon 21 Nov 2016 23:31:31 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:31 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=220&type=T
+Mon 21 Nov 2016 23:31:31 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:31 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=220&type=T
+Mon 21 Nov 2016 23:31:31 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:32 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=240&type=T
+Mon 21 Nov 2016 23:31:32 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:32 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=240&type=T
+Mon 21 Nov 2016 23:31:32 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:32 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=260&type=T
+Mon 21 Nov 2016 23:31:32 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:32 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=260&type=T
+Mon 21 Nov 2016 23:31:32 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:33 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=280&type=T
+Mon 21 Nov 2016 23:31:33 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:33 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=280&type=T
+Mon 21 Nov 2016 23:31:33 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:33 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=300&type=T
+Mon 21 Nov 2016 23:31:33 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:33 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=300&type=T
+Mon 21 Nov 2016 23:31:33 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:34 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=320&type=T
+Mon 21 Nov 2016 23:31:34 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:34 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=320&type=T
+Mon 21 Nov 2016 23:31:34 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:35 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=340&type=T
+Mon 21 Nov 2016 23:31:35 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:35 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=340&type=T
+Mon 21 Nov 2016 23:31:35 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:35 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=360&type=T
+Mon 21 Nov 2016 23:31:35 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:35 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=360&type=T
+Mon 21 Nov 2016 23:31:35 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:36 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=380&type=T
+Mon 21 Nov 2016 23:31:36 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:36 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=380&type=T
+Mon 21 Nov 2016 23:31:36 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:37 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=400&type=T
+Mon 21 Nov 2016 23:31:37 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:37 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=400&type=T
+Mon 21 Nov 2016 23:31:37 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:37 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=420&type=T
+Mon 21 Nov 2016 23:31:37 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:37 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=420&type=T
+Mon 21 Nov 2016 23:31:37 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:37 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=440&type=T
+Mon 21 Nov 2016 23:31:37 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:37 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=440&type=T
+Mon 21 Nov 2016 23:31:37 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:38 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=460&type=T
+Mon 21 Nov 2016 23:31:38 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:38 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=460&type=T
+Mon 21 Nov 2016 23:31:38 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:39 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=480&type=T
+Mon 21 Nov 2016 23:31:39 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:39 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=480&type=T
+Mon 21 Nov 2016 23:31:39 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:39 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=500&type=T
+Mon 21 Nov 2016 23:31:39 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:39 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=500&type=T
+Mon 21 Nov 2016 23:31:39 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:40 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=520&type=T
+Mon 21 Nov 2016 23:31:40 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:40 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=520&type=T
+Mon 21 Nov 2016 23:31:40 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:40 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=540&type=T
+Mon 21 Nov 2016 23:31:40 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:40 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=540&type=T
+Mon 21 Nov 2016 23:31:40 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:41 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=560&type=T
+Mon 21 Nov 2016 23:31:41 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:41 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=560&type=T
+Mon 21 Nov 2016 23:31:41 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:41 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=580&type=T
+Mon 21 Nov 2016 23:31:41 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:41 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=580&type=T
+Mon 21 Nov 2016 23:31:41 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:42 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=600&type=T
+Mon 21 Nov 2016 23:31:42 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:42 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=600&type=T
+Mon 21 Nov 2016 23:31:42 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:42 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=620&type=T
+Mon 21 Nov 2016 23:31:42 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:42 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=620&type=T
+Mon 21 Nov 2016 23:31:42 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:43 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=640&type=T
+Mon 21 Nov 2016 23:31:43 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:43 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=640&type=T
+Mon 21 Nov 2016 23:31:43 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:43 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=660&type=T
+Mon 21 Nov 2016 23:31:43 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:43 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=660&type=T
+Mon 21 Nov 2016 23:31:43 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:44 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=680&type=T
+Mon 21 Nov 2016 23:31:44 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:44 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=680&type=T
+Mon 21 Nov 2016 23:31:44 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:44 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=700&type=T
+Mon 21 Nov 2016 23:31:44 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:44 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=700&type=T
+Mon 21 Nov 2016 23:31:44 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:45 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=720&type=T
+Mon 21 Nov 2016 23:31:45 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:45 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=720&type=T
+Mon 21 Nov 2016 23:31:45 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:45 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=740&type=T
+Mon 21 Nov 2016 23:31:45 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:45 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=740&type=T
+Mon 21 Nov 2016 23:31:45 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:46 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=760&type=T
+Mon 21 Nov 2016 23:31:46 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:46 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=760&type=T
+Mon 21 Nov 2016 23:31:46 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:47 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=780&type=T
+Mon 21 Nov 2016 23:31:47 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:47 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=780&type=T
+Mon 21 Nov 2016 23:31:47 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:47 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=800&type=T
+Mon 21 Nov 2016 23:31:47 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:47 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=800&type=T
+Mon 21 Nov 2016 23:31:47 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:48 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=820&type=T
+Mon 21 Nov 2016 23:31:48 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:48 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=820&type=T
+Mon 21 Nov 2016 23:31:48 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:49 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=840&type=T
+Mon 21 Nov 2016 23:31:49 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:49 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=840&type=T
+Mon 21 Nov 2016 23:31:49 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:49 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=860&type=T
+Mon 21 Nov 2016 23:31:49 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:49 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=860&type=T
+Mon 21 Nov 2016 23:31:49 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:50 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=880&type=T
+Mon 21 Nov 2016 23:31:50 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:50 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=880&type=T
+Mon 21 Nov 2016 23:31:50 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:50 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=900&type=T
+Mon 21 Nov 2016 23:31:50 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:50 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=900&type=T
+Mon 21 Nov 2016 23:31:50 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:51 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=920&type=T
+Mon 21 Nov 2016 23:31:51 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:51 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=920&type=T
+Mon 21 Nov 2016 23:31:51 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:51 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=940&type=T
+Mon 21 Nov 2016 23:31:51 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:51 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=940&type=T
+Mon 21 Nov 2016 23:31:51 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:52 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=960&type=T
+Mon 21 Nov 2016 23:31:52 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:52 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=960&type=T
+Mon 21 Nov 2016 23:31:52 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:52 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=980&type=T
+Mon 21 Nov 2016 23:31:52 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:52 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=980&type=T
+Mon 21 Nov 2016 23:31:52 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:53 scrapyDemo_novel.py[line:105]INFO nexturl:/tag/小说?start=1000&type=T
+Mon 21 Nov 2016 23:31:53 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:53 scrapyDemo_novel.py[line:162]INFO https://book.douban.com/tag/小说?start=1000&type=T
+Mon 21 Nov 2016 23:31:53 connectionpool.py[line:805]INFO Starting new HTTPS connection (1): book.douban.com
+Mon 21 Nov 2016 23:31:53 scrapyDemo_novel.py[line:158]INFO novelParser
+Mon 21 Nov 2016 23:31:53 scrapyDemo_novel.py[line:165]INFO 51
